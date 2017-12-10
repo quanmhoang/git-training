@@ -2,5 +2,5 @@
 	Quan Hoang qmhoang94@gmail.com
 #Thanks
 
-#Technology
-
+#Technology Real Work
+Git Training
