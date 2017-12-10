@@ -14,3 +14,6 @@ sdasdasdas
 12312312321
 
 ##About
+
+##Copyright
+2014 Blahblah
