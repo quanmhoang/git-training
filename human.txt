@@ -2,6 +2,7 @@
 	Quan Hoang qmhoang94@gmail.com
 #Thanks
 
-#Technology Fakework
-This is some text of fakework
+#Technology
 
+#Technology Real Work
+This is some text of fakework
