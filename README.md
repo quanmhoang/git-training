@@ -12,6 +12,7 @@ sdasdasdas
 
 ##How To Contribute
 12312312321
+Some texts
 
 ##About
 
