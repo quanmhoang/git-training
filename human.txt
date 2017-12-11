@@ -6,3 +6,5 @@
 
 #Technology Real Work
 This is some text of fakework
+
+#This is some text before rebasing
